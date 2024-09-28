@@ -1,7 +1,7 @@
 # Bash-Find-File-Size
 A small bash script that takes in a directory from the user as input, and returns the size of each file in that directory.
 
-#How to run the script:
+## How to run the script:
 1. Open a command terminal in a Linux environment
 2. Download/copy the script file in the environment
 3. In the terminal run the commands:
